@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "地图站点",
+  "usingComponents": {
+    "textscroll": "/components/screenTextScroll/screenTextScroll"
+  }
+}

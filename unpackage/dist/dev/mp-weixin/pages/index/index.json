@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "换电",
+  "usingComponents": {
+    "popup": "/components/ge-popup/ge-popup"
+  }
+}

@@ -1,0 +1,59 @@
+{
+        "description": "项目配置文件。",
+        "packOptions": {
+                "ignore": []
+        },
+        "setting": {
+                "urlCheck": false,
+                "es6": true,
+                "enhance": false,
+                "postcss": true,
+                "preloadBackgroundData": false,
+                "minified": true,
+                "newFeature": false,
+                "coverView": true,
+                "nodeModules": false,
+                "autoAudits": false,
+                "showShadowRootInWxmlPanel": true,
+                "scopeDataCheck": false,
+                "uglifyFileName": false,
+                "checkInvalidKey": true,
+                "checkSiteMap": true,
+                "uploadWithSourceMap": true,
+                "compileHotReLoad": false,
+                "useMultiFrameRuntime": true,
+                "useApiHook": true,
+                "useApiHostProcess": true,
+                "babelSetting": {
+                        "ignore": [],
+                        "disablePlugins": [],
+                        "outputPath": ""
+                },
+                "enableEngineNative": false,
+                "useIsolateContext": true,
+                "useCompilerModule": true,
+                "userConfirmedUseCompilerModuleSwitch": false,
+                "userConfirmedBundleSwitch": false,
+                "packNpmManually": false,
+                "packNpmRelationList": [],
+                "minifyWXSS": true
+        },
+        "compileType": "miniprogram",
+        "libVersion": "",
+        "appid": "wx76d74c90b17ff3df",
+        "projectname": "%E6%99%BA%E8%83%BD%E6%8D%A2%E7%94%B5%E5%B0%8F%E7%A8%8B%E5%BA%8F",
+        "condition": {
+                "search": {
+                        "list": []
+                },
+                "conversation": {
+                        "list": []
+                },
+                "game": {
+                        "list": []
+                },
+                "miniprogram": {
+                        "list": []
+                }
+        }
+}

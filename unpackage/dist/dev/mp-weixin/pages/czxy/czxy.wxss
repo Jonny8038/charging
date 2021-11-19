@@ -1,0 +1,17 @@
+
+.container {
+	background: #fff;
+}
+.content {
+	overflow-y: scroll;
+}
+.jj {
+	margin-bottom: 20rpx;
+	padding: 0 20rpx;
+	line-height: 44rpx;
+	text-indent: 2em;
+}
+.jj view:first-child{
+	font-weight: bold;
+}
+
